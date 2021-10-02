@@ -1,0 +1,14 @@
+C:\Users\Lucas Papis\Desktop\ExerciciosCsharp\CrudEvento\CrudEvento\obj\Debug\CrudEvento.csproj.AssemblyReference.cache
+C:\Users\Lucas Papis\Desktop\ExerciciosCsharp\CrudEvento\CrudEvento\obj\Debug\CrudEvento.Telas.frmEventosG.resources
+C:\Users\Lucas Papis\Desktop\ExerciciosCsharp\CrudEvento\CrudEvento\obj\Debug\CrudEvento.frmPrincipal.resources
+C:\Users\Lucas Papis\Desktop\ExerciciosCsharp\CrudEvento\CrudEvento\obj\Debug\CrudEvento.Properties.Resources.resources
+C:\Users\Lucas Papis\Desktop\ExerciciosCsharp\CrudEvento\CrudEvento\obj\Debug\CrudEvento.csproj.GenerateResource.cache
+C:\Users\Lucas Papis\Desktop\ExerciciosCsharp\CrudEvento\CrudEvento\obj\Debug\CrudEvento.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Papis\Desktop\ExerciciosCsharp\CrudEvento\CrudEvento\bin\Debug\dbEvento.mdf
+C:\Users\Lucas Papis\Desktop\ExerciciosCsharp\CrudEvento\CrudEvento\bin\Debug\dbEvento_log.ldf
+C:\Users\Lucas Papis\Desktop\ExerciciosCsharp\CrudEvento\CrudEvento\bin\Debug\CrudEvento.exe.config
+C:\Users\Lucas Papis\Desktop\ExerciciosCsharp\CrudEvento\CrudEvento\bin\Debug\CrudEvento.exe
+C:\Users\Lucas Papis\Desktop\ExerciciosCsharp\CrudEvento\CrudEvento\bin\Debug\CrudEvento.pdb
+C:\Users\Lucas Papis\Desktop\ExerciciosCsharp\CrudEvento\CrudEvento\obj\Debug\CrudEvento.exe
+C:\Users\Lucas Papis\Desktop\ExerciciosCsharp\CrudEvento\CrudEvento\obj\Debug\CrudEvento.pdb
+C:\Users\Lucas Papis\Desktop\ExerciciosCsharp\CrudEvento\CrudEvento\obj\Debug\CrudEvento.Telas.frmInstituicoes.resources
